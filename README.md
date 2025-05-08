@@ -4,8 +4,7 @@ A responsive web application built with **React**, **TypeScript**, and **Tailwin
 
 ## 🚀 Live Demo
 
-🔗 [Live Site URL](https://your-live-site.vercel.app)  
-📁 [GitHub Repository](https://github.com/your-username/product-catalog)
+🔗 [Live Site URL](https://product-catalog-eta-neon.vercel.app/)  
 
 ---
 
