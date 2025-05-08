@@ -32,7 +32,7 @@ A responsive web application built with **React**, **TypeScript**, and **Tailwin
 
 ## 🧪 Installation & Running Locally
 
-- git clone https://github.com/Akshu2828/product-catalog
+- git clone https://github.com/Akshu2828/Product_Catalog
 - cd product-catalog
 - npm install
 - npm run dev
